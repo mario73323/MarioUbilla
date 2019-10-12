@@ -21,20 +21,20 @@ namespace Ejercicio8
             {
                 do
                 {
+                    c1++;
                     if (c1 <= num)
                     {
                         Console.Write("{0}    ", c1);
-                        c1++;
                     }
+                    c2 = c2 + 2;
                     if (c2 <= num)
                     {
                         Console.Write("{0}    ", c2);
-                        c2 = c2 + 2;
                     }
+                    c3 = c3 + 3;
                     if (c3 <= num)
                     {
                         Console.Write("{0}    ", c3);
-                        c3 = c3 + 3;
                     }
                     Console.Write("\n");
                     
@@ -52,10 +52,10 @@ namespace Ejercicio8
                 Console.WriteLine("Ingrese un numero valido");
                 numero = Ingresar();
             }
-            if(numero<0)
+            if(numero<=0)
             {
                 Console.WriteLine("No se aceptan numeros negativos, ingrese un numero valido");
-                Ingresar();
+                numero=Ingresar();
             }
             return numero;
         }

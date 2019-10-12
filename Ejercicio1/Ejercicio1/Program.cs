@@ -11,7 +11,7 @@ namespace Ejercicio1
             cant = Ingresarcantidad();
             num1 = Ingresar();
             mayor = num1;
-            for (int i = 0; i < 4; i++)
+            for (int i = 1; i < cant; i++)
             {
                 num1 = Ingresar();
                 if (mayor < num1)

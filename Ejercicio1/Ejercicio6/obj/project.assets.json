@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Mario\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mario\\Documents\\GitHub\\MarioUbilla3A\\Ejercicio1\\Ejercicio6\\Ejercicio6.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\repos\\Ejercicio1\\Ejercicio6\\Ejercicio6.csproj",
       "projectName": "Ejercicio6",
-      "projectPath": "C:\\Users\\Mario\\Documents\\GitHub\\MarioUbilla3A\\Ejercicio1\\Ejercicio6\\Ejercicio6.csproj",
-      "packagesPath": "C:\\Users\\Mario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mario\\Documents\\GitHub\\MarioUbilla3A\\Ejercicio1\\Ejercicio6\\obj\\",
+      "projectPath": "C:\\Users\\User\\Desktop\\repos\\Ejercicio1\\Ejercicio6\\Ejercicio6.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\repos\\Ejercicio1\\Ejercicio6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
