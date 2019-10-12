@@ -11,7 +11,7 @@ namespace Ejercicio9
             {
                 for (int h = 0; h <= 12; h++)
                 {
-                    Console.WriteLine("{0} * {1} = {2}", c, h, c * h);
+                    Console.WriteLine("{0} x {1} = {2}", c, h, c * h);
                 }
                 c++;
                 Console.WriteLine("\n \n");

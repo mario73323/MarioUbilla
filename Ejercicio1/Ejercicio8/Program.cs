@@ -21,17 +21,26 @@ namespace Ejercicio8
             {
                 do
                 {
-                    c1++;
-                    c2 = c2 + 2;
-                    c3 = c3 + 3;
-                    Console.WriteLine("{0}   {1}   {2}", c1, c2, c3);
+                    if (c1 <= num)
+                    {
+                        Console.Write("{0}    ", c1);
+                        c1++;
+                    }
+                    if (c2 <= num)
+                    {
+                        Console.Write("{0}    ", c2);
+                        c2 = c2 + 2;
+                    }
+                    if (c3 <= num)
+                    {
+                        Console.Write("{0}    ", c3);
+                        c3 = c3 + 3;
+                    }
+                    Console.Write("\n");
+                    
                 } while (c1 < num);
             }
-            else
-            {
-                Console.WriteLine("Ingrese un numero valido");
-                Proceso();
-            }
+           
         }
         public static int Ingresar()
         {
@@ -42,6 +51,11 @@ namespace Ejercicio8
             {
                 Console.WriteLine("Ingrese un numero valido");
                 numero = Ingresar();
+            }
+            if(numero<0)
+            {
+                Console.WriteLine("No se aceptan numeros negativos, ingrese un numero valido");
+                Ingresar();
             }
             return numero;
         }
