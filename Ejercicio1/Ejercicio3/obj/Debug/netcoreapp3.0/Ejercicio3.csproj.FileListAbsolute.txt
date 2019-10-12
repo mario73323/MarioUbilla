@@ -9,3 +9,14 @@ C:\Users\Mario\Documents\GitHub\MarioUbilla3A\Ejercicio1\Ejercicio3\obj\Debug\ne
 C:\Users\Mario\Documents\GitHub\MarioUbilla3A\Ejercicio1\Ejercicio3\obj\Debug\netcoreapp3.0\Ejercicio3.AssemblyInfo.cs
 C:\Users\Mario\Documents\GitHub\MarioUbilla3A\Ejercicio1\Ejercicio3\obj\Debug\netcoreapp3.0\Ejercicio3.dll
 C:\Users\Mario\Documents\GitHub\MarioUbilla3A\Ejercicio1\Ejercicio3\obj\Debug\netcoreapp3.0\Ejercicio3.pdb
+C:\Users\User\Desktop\repos\Ejercicio1\Ejercicio3\bin\Debug\netcoreapp3.0\Ejercicio3.exe
+C:\Users\User\Desktop\repos\Ejercicio1\Ejercicio3\bin\Debug\netcoreapp3.0\Ejercicio3.deps.json
+C:\Users\User\Desktop\repos\Ejercicio1\Ejercicio3\bin\Debug\netcoreapp3.0\Ejercicio3.runtimeconfig.json
+C:\Users\User\Desktop\repos\Ejercicio1\Ejercicio3\bin\Debug\netcoreapp3.0\Ejercicio3.runtimeconfig.dev.json
+C:\Users\User\Desktop\repos\Ejercicio1\Ejercicio3\bin\Debug\netcoreapp3.0\Ejercicio3.dll
+C:\Users\User\Desktop\repos\Ejercicio1\Ejercicio3\bin\Debug\netcoreapp3.0\Ejercicio3.pdb
+C:\Users\User\Desktop\repos\Ejercicio1\Ejercicio3\obj\Debug\netcoreapp3.0\Ejercicio3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\repos\Ejercicio1\Ejercicio3\obj\Debug\netcoreapp3.0\Ejercicio3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\repos\Ejercicio1\Ejercicio3\obj\Debug\netcoreapp3.0\Ejercicio3.AssemblyInfo.cs
+C:\Users\User\Desktop\repos\Ejercicio1\Ejercicio3\obj\Debug\netcoreapp3.0\Ejercicio3.dll
+C:\Users\User\Desktop\repos\Ejercicio1\Ejercicio3\obj\Debug\netcoreapp3.0\Ejercicio3.pdb

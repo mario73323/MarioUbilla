@@ -6,17 +6,24 @@ namespace Ejercicio9
     {
         static void Main(string[] args)
         {
-            int c = 1;
-            for (int i = 1; i <= 15; i++)
+            int c =Ingresar();
+            for (int i = 0; i <= 15; i++)
             {
-                for (int h = 0; h <= 12; h++)
-                {
-                    Console.WriteLine("{0} x {1} = {2}", c, h, c * h);
-                }
-                c++;
-                Console.WriteLine("\n \n");
+                    Console.WriteLine("{0} x {1} = {2}", c, i, c * i);
             }
             Console.ReadKey();
+        }
+        public static int Ingresar()
+        {
+            Console.WriteLine("Ingrese un numero para generar su tabla de multiplicar");
+            string num = Console.ReadLine();
+            bool error = int.TryParse(num, out int numero);
+            if (!error)
+            {
+                Console.WriteLine("Ingrese un numero valido");
+                numero = Ingresar();
+            }
+            return numero;
         }
     }
 }
