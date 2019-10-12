@@ -1,0 +1,11 @@
+C:\Users\Mario\Documents\GitHub\MarioUbilla3A\Ejercicio1\Ejercicio8\bin\Debug\netcoreapp3.0\Ejercicio8.exe
+C:\Users\Mario\Documents\GitHub\MarioUbilla3A\Ejercicio1\Ejercicio8\bin\Debug\netcoreapp3.0\Ejercicio8.deps.json
+C:\Users\Mario\Documents\GitHub\MarioUbilla3A\Ejercicio1\Ejercicio8\bin\Debug\netcoreapp3.0\Ejercicio8.runtimeconfig.json
+C:\Users\Mario\Documents\GitHub\MarioUbilla3A\Ejercicio1\Ejercicio8\bin\Debug\netcoreapp3.0\Ejercicio8.runtimeconfig.dev.json
+C:\Users\Mario\Documents\GitHub\MarioUbilla3A\Ejercicio1\Ejercicio8\bin\Debug\netcoreapp3.0\Ejercicio8.dll
+C:\Users\Mario\Documents\GitHub\MarioUbilla3A\Ejercicio1\Ejercicio8\bin\Debug\netcoreapp3.0\Ejercicio8.pdb
+C:\Users\Mario\Documents\GitHub\MarioUbilla3A\Ejercicio1\Ejercicio8\obj\Debug\netcoreapp3.0\Ejercicio8.csprojAssemblyReference.cache
+C:\Users\Mario\Documents\GitHub\MarioUbilla3A\Ejercicio1\Ejercicio8\obj\Debug\netcoreapp3.0\Ejercicio8.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\GitHub\MarioUbilla3A\Ejercicio1\Ejercicio8\obj\Debug\netcoreapp3.0\Ejercicio8.AssemblyInfo.cs
+C:\Users\Mario\Documents\GitHub\MarioUbilla3A\Ejercicio1\Ejercicio8\obj\Debug\netcoreapp3.0\Ejercicio8.dll
+C:\Users\Mario\Documents\GitHub\MarioUbilla3A\Ejercicio1\Ejercicio8\obj\Debug\netcoreapp3.0\Ejercicio8.pdb
